@@ -1,0 +1,1 @@
+Total Lennard-Jones Energy: 1.8902e+10 kcal/mol
